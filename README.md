@@ -92,5 +92,5 @@
     #clicar no botao enviar
     pyautogui.press("enter")
     pyautogui.scroll(5000)
-# Passo 5: Repetir até acabar
+    # Passo 5: Repetir até acabar
 
